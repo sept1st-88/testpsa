@@ -4,5 +4,6 @@
   <welcome-file-list>
     <welcome-file>index.jsp</welcome-file>
     <welcome-file>default.jsp</welcome-file>
+    <welcome-file>나의 홈페이지에서 시작페이지(프롤로그).jsp</welcome-file>
   </welcome-file-list>
 </web-app>
